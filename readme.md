@@ -2,5 +2,5 @@
 
 Esta serie de libros cuentan la historia de un hacker excepcional.
 
-**Juan Carlos Armengod**
+**Juan Carlos Armengod**, git fan.
 
