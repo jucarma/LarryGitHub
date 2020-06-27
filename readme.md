@@ -2,5 +2,5 @@
 
 Esta serie de libros cuentan la historia de un hacker excepcional.
 
-**Juan Carlos Armengod**, git fan.
 
+**Juan Carlos Armengod**, git & Larry Plotter Fan
